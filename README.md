@@ -2,7 +2,7 @@
 
 This repository holds the OpenAPI specification of the [Kanadr](https://www.kanadr.com/en) API and ready-to-use configurations for connecting AI assistants to a Kanadr portal through its MCP server.
 
-Kanadr is a white-label hosted PBX for telecom operators. Every portal action goes through this API: customers, numbers, trunks, call flows, devices, call logs, rating, webhooks and diagnostics. The specification lists 218 paths, documented in English and French.
+Kanadr is a white-label hosted PBX for telecom operators. Every portal action goes through this API: customers, numbers, trunks, call flows, devices, call logs, rating, webhooks and diagnostics. The specification lists more than 200 paths, documented in English and French.
 
 ## Contents
 
