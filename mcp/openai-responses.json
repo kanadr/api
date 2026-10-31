@@ -1,0 +1,13 @@
+{
+  "model": "<model>",
+  "input": "Which trunks are failing, and since when?",
+  "tools": [
+    {
+      "type": "mcp",
+      "server_label": "phone",
+      "server_url": "https://portal.example/api/v1/mcp",
+      "authorization": "<key>",
+      "require_approval": "always"
+    }
+  ]
+}

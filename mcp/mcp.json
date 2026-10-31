@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "phone": {
+      "type": "http",
+      "url": "https://portal.example/api/v1/mcp",
+      "headers": { "Authorization": "Bearer <key>" }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+# Mistral Vibe: add to ~/.vibe/config.toml and export PHONE_KEY
+[[mcp_servers]]
+name = "phone"
+transport = "http"
+url = "https://portal.example/api/v1/mcp"
+api_key_env = "PHONE_KEY"
+api_key_header = "Authorization"
+api_key_format = "Bearer {token}"

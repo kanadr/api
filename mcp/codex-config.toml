@@ -1,0 +1,4 @@
+# Add to ~/.codex/config.toml, export PHONE_KEY, then check with: codex mcp list
+[mcp_servers.phone]
+url = "https://portal.example/api/v1/mcp"
+bearer_token_env_var = "PHONE_KEY"
